@@ -7,7 +7,7 @@ from langchain_core.output_parsers import JsonOutputParser
 # Initialize LLM
 llm = ChatGroq(
     temperature=0, 
-    groq_api_key='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',
+    groq_api_key='gsk_***', #Enter your api key here
     model_name="llama-3.3-70b-specdec"
 )
 

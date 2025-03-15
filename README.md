@@ -1,4 +1,4 @@
-#🚀 Llama 3 Cold Email Generator
+# 🚀 Llama 3 Cold Email Generator
 📩 Automate Cold Email Outreach with AI
 
 This project leverages Llama 3.1, LangChain, ChromaDB, and Streamlit to generate highly personalized cold emails based on job postings. It helps businesses pitch their services effectively by automating the email drafting process.

@@ -1,0 +1,10 @@
+langchain
+chromadb
+streamlit
+openai
+beautifulsoup4
+requests
+llama-cpp-python
+tiktoken
+python-dotenv
+pydantic
